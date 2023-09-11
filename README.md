@@ -1,2 +1,4 @@
 # House-Price-Predict
 Machine Learning model to predict house price using linear regression
+
+A linear regression model for predicting house prices utilizes features like square footage, number of bedrooms, location, and other relevant attributes. It assumes a linear relationship between these factors and the house's price. By training on a dataset with houses and their corresponding prices, the model learns coefficients for each feature. These coefficients are optimized during training to minimize prediction errors. Once trained, the model can make accurate price estimates for new houses. However, it's crucial to acknowledge that linear regression assumes a linear relationship, which may not capture all nuances in the data, potentially leading to less accurate predictions for extremely complex cases.
